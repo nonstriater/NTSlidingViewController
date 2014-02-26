@@ -3,7 +3,7 @@
 
 NTSlidingViewController is right-and-left sliding view controller container.It's created just for fun.
 
-<img src="https://github.com/nonstriater/NTSlidingViewController/raw/master/Demo.gif" alt="NTSlidingViewController Screenshot" width="320" height="568" />
+<img src="https://github.com/nonstriater/NTSlidingViewController/blob/master/Demo.gif" alt="NTSlidingViewController Screenshot" width="320" height="568" />
 
 the gif designed by [licecap](http://www.cockos.com/licecap/).
 
