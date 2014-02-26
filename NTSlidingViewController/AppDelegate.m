@@ -35,7 +35,8 @@
     [sliding addControllerWithTitle:@"排行榜" viewController:vc3];
     [sliding addControllerWithTitle:@"专辑" viewController:vc4];
     [sliding addControllerWithTitle:@"艺人" viewController:vc5];
-    
+    sliding.selectedLabelColor = [UIColor redColor];
+    sliding.unselectedLabelColor = [UIColor brownColor];
     
     self.window.rootViewController = sliding;
     

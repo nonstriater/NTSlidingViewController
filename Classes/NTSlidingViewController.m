@@ -109,7 +109,7 @@ static const CGFloat kNavbarButtonScaleFactor = 1.4f;
     _titles = [[NSMutableArray alloc] init];
     _childControllers = [[NSMutableArray alloc] init];
 
-    _unselectedLabelColor = [UIColor lightGrayColor];
+    _unselectedLabelColor = [UIColor grayColor];
     _selectedLabelColor = [UIColor redColor];
     _selectedIndex = 1;
 }
