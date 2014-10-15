@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "6.0"
 
 
-  s.source       = { :git => "https://github.com/nonstriater/NTSlidingViewController.git", :commit => "fad183634f8269e3a0f9e8c969bffb2365d9fcbb" }
+  s.source       = { :git => "https://github.com/nonstriater/NTSlidingViewController.git", :commit => "fad183634f8269e3a0f9e8c969bffb2365d9fcbb", :tag => "1.0.0" }
   s.source_files  = "Classes/*.{h,m}"
 
 
