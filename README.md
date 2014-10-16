@@ -17,8 +17,13 @@ the gif designed by [licecap](http://www.cockos.com/licecap/).
 
 ## Installation
 
-All you need to do is drop `NTSlidingViewController` files into your project, and add `#include "NTSlidingViewController.h"` to the top of classes that will use it.
+NTSlidingViewController can be installed using [CocoaPods](http://cocoapods.org/)    
 
+    pod NTSlidingViewController
+
+or using the source code directly:
+
+All you need to do is drop `NTSlidingViewController` files into your project, and add `#include "NTSlidingViewController.h"` to the top of classes that will use it.
 
 ## Example Usage
 
